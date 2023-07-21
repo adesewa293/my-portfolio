@@ -6,7 +6,7 @@ export default function Home() {
     <>
       <img
         src="https://thumbs.dreamstime.com/z/beauty-black-skin-woman-african-ethnic-female-face-young-african-american-model-long-afro-hair-smiling-model-isolated-163819623.jpg?w=992"
-        alt="my-image"
+        alt="stock female avatar"
       />
       <h1>TECHNICAL EXPERTISE</h1>
       <h2>Languages:</h2>
