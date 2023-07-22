@@ -1,9 +1,15 @@
 import React from "react";
+import { Helmet } from "react-helmet-async";
 import "./home.css";
 
 export default function Home() {
   return (
     <>
+      <Helmet>
+        <title>My Portfolio</title>
+        <meta name="description" content="Adesewa Aishat Portfolio" />
+        <link rel="canonical" href="/about" />
+      </Helmet>
       <img
         src="https://thumbs.dreamstime.com/z/beauty-black-skin-woman-african-ethnic-female-face-young-african-american-model-long-afro-hair-smiling-model-isolated-163819623.jpg?w=992"
         alt="stock female avatar"

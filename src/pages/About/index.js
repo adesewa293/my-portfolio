@@ -1,14 +1,14 @@
 import React from "react";
-// import { Helmet } from "react-helmet-async";
+import { Helmet } from "react-helmet-async";
 
 export default function About() {
   return (
     <>
-      {/* <Helmet>
-        <title>My Portfolio</title>
+      <Helmet>
+        <title>About</title>
         <meta name="description" content="Adesewa Aishat Portfolio" />
         <link rel="canonical" href="/about" />
-      </Helmet> */}
+      </Helmet>
       <p>
         As a passionate software developer, I specialize in frontend
         technologies, with a keen focus on HTML, CSS, and JavaScript. I embrace

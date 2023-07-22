@@ -6,7 +6,7 @@ function Header() {
   return (
     <>
       <div class="header-container">
-        <div class="logo">Your Logo</div>
+        <p className="name"> Adesewa Aishat</p>
         <ul class="nav-menu">
           <li class="nav-item">
             <Link to={"/"} class="nav-link">
