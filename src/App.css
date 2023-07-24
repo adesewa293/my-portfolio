@@ -1,5 +1,9 @@
 .App {
   text-align: center;
+  background-image: url("images/header-image.jpg");
+  background-repeat: cover;
+  height: 100vh;
+  margin: 0;
 }
 
 .App-logo {
